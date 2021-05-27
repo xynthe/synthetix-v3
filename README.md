@@ -1,4 +1,4 @@
-## Synthetix-v3
+## Xynthe-v3
 
 **IMPORTANT**
 This repository is still unofficial, and very much a work in progress.
